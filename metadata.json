@@ -1,0 +1,6 @@
+{
+  "name": "PamoFocus",
+  "description": "Application Android de productivité et technique Pomodoro immersive avec sablier dynamique, gestion de tâches et analyse de concentration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
